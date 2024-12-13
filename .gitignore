@@ -1,0 +1,4 @@
+table/*.txt
+table/*.csv
+table/__pycache__/
+table/reals/*
